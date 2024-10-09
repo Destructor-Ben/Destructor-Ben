@@ -33,8 +33,10 @@
             display: block;
             position: absolute;
             z-index: -1;
-            width: 400px;
-            height: 400px;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
             animation: border-animation 3s linear infinite;
             background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
           }
