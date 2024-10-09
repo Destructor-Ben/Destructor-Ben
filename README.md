@@ -29,6 +29,6 @@ TODO
 
 # Stats
 
-![Stats](/test.svg)
+<img src="/test.svg" align="right">
 
 TODO
