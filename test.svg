@@ -2,7 +2,7 @@
   <foreignObject width="300" height="200">
     <body xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        #readme-window * {
+        * {
           --white: #f1f1f1;
           --bg: #0f1931;
           --col1: #df406f;
@@ -15,7 +15,7 @@
           color: var(--white);
         }
 
-        #readme-window > div {
+        div {
           background-color: var(--bg);
           padding: 1em;
           border-radius: 2em;
@@ -40,7 +40,7 @@
         }
       </style>
 
-      <div id="readme-window">
+      <div>
         <h1>Test</h1>
         <hr />
         <ul>
