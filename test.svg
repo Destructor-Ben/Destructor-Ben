@@ -6,6 +6,11 @@
           --white: #f1f1f1;
           --bg: #0f1931;
           --col1: #df406f;
+          --col2: orange;
+          --col3: yellow;
+          --col4: green;
+          --col5: blue;
+          --col6: purple;
 
           padding: 0;
           margin: 0;
@@ -16,12 +21,19 @@
         }
 
         div {
-          background-color: var(--bg);
-          padding: 1em;
-          border-radius: 2em;
-          border: 4px solid var(--col1);
+          /* Acts as the border */
+          background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
+          padding: 4px;
+          border-radius: 30px;
           width: 100%;
           height: 100%;
+          
+          div {
+            background: none;
+            background-color: var(--bg);
+            padding: 1em;
+            border-radius: 26px;
+          }
 
           h1 {
             font-size: 1.5rem;
@@ -35,19 +47,20 @@
           }
 
           ul {
-            list-style: "- " inside;
+            list-style: "- "inside;
           }
         }
       </style>
-
       <div>
-        <h1>Test</h1>
-        <hr />
-        <ul>
-          <li>Thing 1</li>
-          <li>Thing 2</li>
-          <li>Thing 3</li>
-        </ul>
+        <div>
+          <h1>Test</h1>
+          <hr />
+          <ul>
+            <li>Thing 1</li>
+            <li>Thing 2</li>
+            <li>Thing 3</li>
+          </ul>
+        </div>
       </div>
     </body>
   </foreignObject>
