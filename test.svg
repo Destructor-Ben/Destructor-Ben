@@ -31,8 +31,7 @@
           hr {
             border: 1px solid var(--white);
             border-radius: 1000rem;
-            margin-top 0.5em;
-            margin-bottom: 0.5em;
+            margin: 0.5em 0em;
           }
 
           ul {
