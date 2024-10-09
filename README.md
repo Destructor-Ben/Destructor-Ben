@@ -1,12 +1,13 @@
 # About Me
 
-- Dude
-- 16
-- Nerd
-- Kiwi 🇳🇿
-- Timezone is UTC+12/13, depending on daylight savings
+I'm a 16 year old guy from New Zealand 🇳🇿 with a passion for programming, electronics, and maths.
 
-# Interests
+Proud of being a Kiwi 🥝🥝🥝🇳🇿🇳🇿🇳🇿🇳🇿 (we made pavlova).
+
+<img src="/test.svg" align="left">
+<img src="/test.svg" align="right">
+
+<!--
 
 - Modding
   - Terraria
@@ -29,6 +30,6 @@ TODO
 
 # Stats
 
-<img src="/test.svg" align="right">
-
 TODO
+
+-->
