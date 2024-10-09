@@ -3,19 +3,32 @@
     <body xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
+          --white: #f1f1f1;
+          --bg: #0f1931;
+          --col1: #df406f;
+
           padding: 0;
           margin: 0;
           box-sizing: border-box;
           font-family: monospace;
           font-size: 1rem;
-          color: #f1f1f1;
+          color: var(--white);
         }
 
         div {
-          background-color: #0f1931;
+          background-color: var(--bg);
           padding: 1em;
           border-radius: 2em;
-          border: 4px solid #df406f;
+          border: 4px solid var(--col1);
+
+          h1 {
+            font-size: 2rem;
+          }
+
+          hr {
+            border: 2px solid var(--white);
+            border-radius: 1000rem;
+          }
         }
       </style>
 
