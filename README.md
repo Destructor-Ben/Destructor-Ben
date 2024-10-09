@@ -5,8 +5,9 @@
 - Kiwi 🇳🇿
 - Timezone is UTC+12/13, depending on daylight savings
 
-<span align="right">
 ## Interests
+<div style="width:50%;margin:auto;background-color:gray;padding:1em;border-radius:2em;">
+
 - Modding
   - Terraria
   - Minecraft
@@ -15,7 +16,7 @@ Hearts of Iron IV
   - todo
 - Maths
 
-</span>
+</div>
 
 
 ## Future Projects
@@ -28,3 +29,4 @@ Hearts of Iron IV
 TODO
 
 ## Stats
+ it 
