@@ -28,7 +28,7 @@
           width: 100%;
           height: 100%;
           
-          & > div {
+          div {
             background-color: var(--bg);
             padding: 1em;
             border-radius: 26px;
