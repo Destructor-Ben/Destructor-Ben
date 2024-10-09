@@ -46,14 +46,15 @@
           }
 
           ul {
-            list-style: "- "inside;
+            list-style: "- " inside;
           }
         }
       </style>
+      
       <main>
         <div>
           <h1>Test</h1>
-          <hr />
+          <hr>
           <ul>
             <li>Thing 1</li>
             <li>Thing 2</li>
