@@ -2,7 +2,7 @@
 
 I'm a 16 year old guy from New Zealand 🇳🇿 with a passion for programming, electronics, and maths.
 
-Proud of being a Kiwi 🥝🥝🥝🇳🇿🇳🇿🇳🇿🇳🇿 (we made pavlova).
+Proud to be a Kiwi 🥝🥝🥝🇳🇿🇳🇿🇳🇿🇳🇿 (we made pavlova not Australia).
 
 <img src="/test.svg" align="left">
 <img src="/test.svg" align="right">
