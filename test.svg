@@ -1,6 +1,6 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="300" height="200">
-    <body xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
           --white: #f1f1f1;
@@ -20,7 +20,7 @@
           color: var(--white);
         }
 
-        div {
+        main {
           /* Acts as the border */
           background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
           padding: 4px;
@@ -28,8 +28,7 @@
           width: 100%;
           height: 100%;
           
-          div {
-            background: none;
+          & > div {
             background-color: var(--bg);
             padding: 1em;
             border-radius: 26px;
@@ -51,7 +50,7 @@
           }
         }
       </style>
-      <div>
+      <main>
         <div>
           <h1>Test</h1>
           <hr />
@@ -61,7 +60,7 @@
             <li>Thing 3</li>
           </ul>
         </div>
-      </div>
-    </body>
+      </main>
+    </div>
   </foreignObject>
 </svg>
