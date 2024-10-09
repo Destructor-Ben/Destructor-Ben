@@ -1,32 +1,34 @@
-# I'm Destructor_Ben
+# About Me
 
-## About Me
-- 16 years old
+- Dude
+- 16
+- Nerd
 - Kiwi 🇳🇿
 - Timezone is UTC+12/13, depending on daylight savings
 
-## Interests
-<div style="width:50%;margin:auto;background-color:gray;padding:1em;border-radius:2em;">
+# Interests
 
 - Modding
   - Terraria
   - Minecraft
-Hearts of Iron IV
+  - Hearts of Iron IV
 - Gaming
   - todo
 - Maths
 
-</div>
 
+# Future Projects
 
-## Future Projects
 - Modding
   - Oxygen Not Included
   - Rim World
-  
 
-## Tools I Use
+# Tools I Use
+
 TODO
 
-## Stats
- it 
+# Stats
+
+![Stats](/test.svg)
+
+TODO
