@@ -38,7 +38,7 @@
               100% { transform: rotate(180deg); }
             }
             
-            &::before {
+            ::before {
               content: "";
               display: block;
               position: absolute;
