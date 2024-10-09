@@ -6,11 +6,11 @@
           --white: #f1f1f1;
           --bg: #0f1931;
           --col1: #df406f;
-          --col2: orange;
-          --col3: yellow;
-          --col4: green;
-          --col5: blue;
-          --col6: purple;
+          --col2: #fbda34;
+          --col3: #dee7ef;
+          --col4: #4f79f0;
+          --col5: #86f9b8;
+          --col6: #8539f3;
 
           padding: 0;
           margin: 0;
