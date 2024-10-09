@@ -27,6 +27,17 @@
           height: 100%;
           position: relative;
           overflow: hidden;
+            
+          ::before {
+            content: "";
+            display: block;
+            position: absolute;
+            z-index: -1;
+            width: 400px;
+            height: 400px;
+            animation: border-animation 3s linear infinite;
+            background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
+          }
           
           div {
             background-color: var(--bg);
@@ -36,17 +47,6 @@
             @keyframes border-animation {
               0% { transform: rotate(0deg); }
               100% { transform: rotate(180deg); }
-            }
-            
-            ::before {
-              content: "";
-              display: block;
-              position: absolute;
-              z-index: -1;
-              width: 400px;
-              height: 400px;
-              animation: border-animation 3s linear infinite;
-              background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
             }
           }
 
