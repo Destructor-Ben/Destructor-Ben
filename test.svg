@@ -1,5 +1,5 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100" height="100">
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="300" height="200">
     <body xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
@@ -20,6 +20,8 @@
           padding: 1em;
           border-radius: 2em;
           border: 4px solid var(--col1);
+          width: 100%;
+          height: 100%;
 
           h1 {
             font-size: 1.5rem;
