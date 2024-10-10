@@ -4,8 +4,8 @@ I'm a 16 year old guy from New Zealand 🇳🇿 with a passion for programming, 
 
 Proud to be a Kiwi 🥝🥝🥝🇳🇿🇳🇿🇳🇿🇳🇿 (we made pavlova not Australia).
 
-<img src="/test.svg" align="left">
-<img src="/test.svg" align="right">
+<img src="/interests.svg" align="left">
+<img src="/future-projects.svg" align="right">
 
 <!--
 
