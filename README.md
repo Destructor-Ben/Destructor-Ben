@@ -8,5 +8,6 @@ I'm a 16 year old guy from New Zealand 🇳🇿 with a passion for programming, 
 <img src="/future-projects.svg" align="right">
 
 <br>
+<br>
 
 <img src="/tools.svg" align="center">
