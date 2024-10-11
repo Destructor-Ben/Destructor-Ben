@@ -10,4 +10,6 @@ I'm a 16 year old guy from New Zealand 🇳🇿 with a passion for programming, 
 <br>
 <br>
 
-<img src="/tools.svg" align="center">
+<div align="center">
+  <img src="/tools.svg">
+</div>
