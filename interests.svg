@@ -1,5 +1,5 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="300" height="200">
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="400" height="300">
     <main xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
@@ -83,13 +83,10 @@
         <h1>Interests</h1>
         <hr />
         <ul>
-          <li>Modding
-            <ul>
-              <li>Test</li>
-            </ul>
-          </li>
-          <li>Thing 2</li>
-          <li>Thing 3</li>
+          <li>Programming: Game dev, modding, compilers, fullstack web dev, and game, physics, and render engines</li>
+          <li>Gaming: Mostly simulation and engineering games plus a few for friends</li>
+          <li>Electronics: IoT and integrated circuits</li>
+          <li>Maths: Fractals and maths for programming</li>
         </ul>
       </div>
     </main>
