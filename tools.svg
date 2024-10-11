@@ -1,0 +1,98 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="800" height="200">
+    <main xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          /* Variables */
+          --white: #f1f1f1;
+          --bg: #0f1931;
+          --col1: #df406f;
+          --col2: #fbda34;
+          --col3: #dee7ef;
+          --col4: #4f79f0;
+          --col5: #86f9b8;
+          --col6: #8539f3;
+
+          /* Default styles */
+          padding: 0;
+          margin: 0;
+          box-sizing: border-box;
+          font-family: Consolas, monospace;
+          font-size: 1rem;
+          color: var(--white);
+        }
+
+        /* Rotate the fancy border to animate it */
+        @keyframes border-animation {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+
+        /* The root element */
+        main {
+          padding: 4px;
+          border-radius: 30px;
+          width: 100%;
+          height: 100%;
+          position: relative;
+          overflow: hidden;
+
+          /* The ranbow border, which is a spinning rectangle cropped to the root element */
+          ::before {
+            content: "";
+            display: block;
+            position: absolute;
+            z-index: -1;
+            --size: -300px;
+            top: var(--size);
+            left: var(--size);
+            right: var(--size);
+            bottom: var(--size);
+            animation: border-animation 3s linear infinite;
+            background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
+          }
+          
+          /* Main panel */
+          div {
+            background-color: var(--bg);
+            padding: 1em;
+            border-radius: 26px;
+            width: 100%;
+            height: 100%;
+          }
+
+          /* Other elements */
+          h1 {
+            font-size: 1.5rem;
+            text-align: center;
+          }
+
+          hr {
+            border: 1px solid var(--white);
+            border-radius: 1000rem;
+            margin: 0.5em 0em;
+          }
+
+          ul {
+            list-style: none;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+          }
+        }
+      </style>
+      
+      <div>
+        <h1>Tools</h1>
+        <hr />
+        <ul>
+          <li><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" /></li>
+          <li>2</li>
+          <li>3</li>
+          <li>4</li>
+        </ul>
+      </div>
+    </main>
+  </foreignObject>
+</svg>
