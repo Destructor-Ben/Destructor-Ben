@@ -1,8 +1,9 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="300" height="200">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <main xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
+          /* Variables */
           --white: #f1f1f1;
           --bg: #0f1931;
           --col1: #df406f;
@@ -12,19 +13,22 @@
           --col5: #86f9b8;
           --col6: #8539f3;
 
+          /* Default styles */
           padding: 0;
           margin: 0;
           box-sizing: border-box;
-          font-family: monospace;
+          font-family: Consolas, monospace;
           font-size: 1rem;
           color: var(--white);
         }
-          
+
+        /* Rotate the fancy border to animate it */
         @keyframes border-animation {
           0% { transform: rotate(0deg); }
           100% { transform: rotate(360deg); }
         }
 
+        /* The root element */
         main {
           padding: 4px;
           border-radius: 30px;
@@ -32,7 +36,8 @@
           height: 100%;
           position: relative;
           overflow: hidden;
-            
+
+          /* The ranbow border, which is a spinning rectangle cropped to the root element */
           ::before {
             content: "";
             display: block;
@@ -47,12 +52,16 @@
             background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
           }
           
+          /* Main panel */
           div {
             background-color: var(--bg);
             padding: 1em;
             border-radius: 26px;
+            width: 100%;
+            height: 100%;
           }
 
+          /* Other elements */
           h1 {
             font-size: 1.5rem;
             text-align: center;
@@ -70,17 +79,19 @@
         }
       </style>
       
-      <main>
-        <div>
-          <h1>Interests</h1>
-          <hr />
-          <ul>
-            <li>Thing 1</li>
-            <li>Thing 2</li>
-            <li>Thing 3</li>
-          </ul>
-        </div>
-      </main>
-    </div>
+      <div>
+        <h1>Interests</h1>
+        <hr />
+        <ul>
+          <li>Modding
+            <ul>
+              <li>Test</li>
+            </ul>
+          </li>
+          <li>Thing 2</li>
+          <li>Thing 3</li>
+        </ul>
+      </div>
+    </main>
   </foreignObject>
 </svg>
