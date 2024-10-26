@@ -49,7 +49,7 @@
             left: var(--size);
             right: var(--size);
             bottom: var(--size);
-            animation: border-animation 3s linear infinite;
+            animation: border-animation 10s linear infinite;
             background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
           }
           
