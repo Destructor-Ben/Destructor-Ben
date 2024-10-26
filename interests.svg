@@ -1,7 +1,7 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="400" height="300">
     <main xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" href="/svg-style.css">
+      <link rel="stylesheet" href="/svg-style.css" />
       
       <div>
         <h1>Interests</h1>
