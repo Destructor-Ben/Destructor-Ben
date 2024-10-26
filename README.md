@@ -10,11 +10,7 @@ This profile is under construction
 <img src="/interests.svg" align="left">
 <img src="/future-projects.svg" align="right">
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<p> </p>
 
 <div align="center">
   <img src="/tools.svg">
