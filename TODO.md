@@ -7,7 +7,5 @@
   - Make the animation slower
   - Possibly offset the animations
 - Clean up the tools logos
-  - Fix the bad colouring in the .NET Core logo and GitHub logo
-  - Remove the TM in the Arduino logo
-  - Use the simple version of the OpenGL logo
+  - Fix the bad colouring in the .NET Core logo
   - Fix the mismatched gradients (likely caused by duplicate IDs)
