@@ -7,5 +7,4 @@
   - Make the animation slower
   - Possibly offset the animations
 - Clean up the tools logos
-  - Fix the bad colouring in the .NET Core logo
   - Fix the mismatched gradients (likely caused by duplicate IDs)
