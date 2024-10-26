@@ -6,5 +6,3 @@
   - Possibly change the colours and exclude white
   - Make the animation slower
   - Possibly offset the animations
-- Clean up the tools logos
-  - Fix the mismatched gradients (likely caused by duplicate IDs)
