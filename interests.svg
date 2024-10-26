@@ -1,16 +1,16 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="400" height="300">
     <main xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" href="/svg-style.css" />
+      <link rel="stylesheet" href="https://github.com/Destructor-Ben/Destructor-Ben/blob/main/svg-style.css?raw=true" />
       
       <div>
         <h1>Interests</h1>
         <hr />
         <ul>
-          <li>TEST Programming: Game dev, modding, compilers, fullstack web dev, and game, physics, and render engines</li>
-          <li>Gaming: Mostly simulation and engineering games plus a few for friends</li>
+          <li>Programming: Game dev, modding, compilers, fullstack web dev, and game, physics, and render engines</li>
+          <li>Gaming: Mostly simulation and engineering games plus a few to play with friends</li>
           <li>Electronics: IoT and integrated circuits</li>
-          <li>Maths: Fractals and maths for programming</li>
+          <li>Maths: Calculus, algebra, physics, and fractals</li>
         </ul>
       </div>
     </main>
