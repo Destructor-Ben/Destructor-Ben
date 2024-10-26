@@ -4,5 +4,3 @@
   - Confirm that they are large enough to avoid clipping
   - Maybe round them out into circles
   - Possibly change the colours and exclude white
-  - Make the animation slower
-  - Possibly offset the animations

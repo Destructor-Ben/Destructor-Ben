@@ -8,10 +8,9 @@
           --bg: #0f1931;
           --col1: #df406f;
           --col2: #fbda34;
-          --col3: #dee7ef;
+          --col3: #86f9b8;
           --col4: #4f79f0;
-          --col5: #86f9b8;
-          --col6: #8539f3;
+          --col5: #8539f3;
 
           /* Default styles */
           padding: 0;
@@ -49,7 +48,7 @@
             right: var(--size);
             bottom: var(--size);
             animation: border-animation 10s linear infinite;
-            background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col6), var(--col1));
+            background: conic-gradient(var(--col1), var(--col2), var(--col3), var(--col4), var(--col5), var(--col1));
           }
           
           /* Main panel */
