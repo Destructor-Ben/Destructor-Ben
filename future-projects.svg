@@ -42,7 +42,8 @@
             display: block;
             position: absolute;
             z-index: -1;
-            --size: -300px;
+            border-radius: 100%;
+            --size: -100px;
             top: var(--size);
             left: var(--size);
             right: var(--size);
