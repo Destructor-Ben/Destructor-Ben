@@ -44,7 +44,7 @@
             display: block;
             position: absolute;
             z-index: -1;
-            --size: -900px;
+            --size: -1000px;
             top: var(--size);
             left: var(--size);
             right: var(--size);
