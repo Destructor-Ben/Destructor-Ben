@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 16 year old guy from New Zealand 🇳🇿 with a passion for programming, electronics, and maths.
+I'm a 16 year old guy from New Zealand [NZ Flag](/nz-flag.png) with a passion for programming, electronics, and maths.
 
 ------
 
