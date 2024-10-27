@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 16 year old guy from New Zealand <img src="/nz-flag.png" alt="NZ Flag" height="22"> with a passion for programming, electronics, and maths.
+I'm a 16 year old guy from New Zealand <img src="/nz-flag.png" alt="NZ Flag" height="16"> with a passion for programming, electronics, and maths.
 
 ------
 
